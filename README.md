@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portofolio](https://github.com/shanshan-su/shanshan-su.github.io)
 
-- 🌱 I’m currently learning **Java junit test.**
+- 🌱 I’m currently learning **React.**
 
 - 📫 How to reach me **shanshansu36@gmail.com**
 
