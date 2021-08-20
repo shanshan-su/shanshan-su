@@ -3,7 +3,7 @@
 <h1 align="center">✨Howdy 👋, I'm Shanshan Su✨</h1>
 <h3 align="center">A creative full stack developer from China</h3>
 
-- 🔭 I’m currently working on [my portofolio](https://github.com/shanshan-su/shanshan-su.github.io)
+- 🔭 I’m currently working on [Stare card game](https://github.com/shanshan-su/StareCardGame)
 
 - 🌱 I’m currently learning **React.**
 
