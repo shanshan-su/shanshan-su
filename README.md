@@ -1,15 +1,13 @@
 ![Header](image/shanshanwathen_banner.png)
 
-<h1 align="center">✨Howdy 👋, I'm Shanshan Su✨</h1>
-<h3 align="center">A creative full stack developer from China</h3>
+<h1 align="center">✨Howdy 👋, I'm Shanshan Wathen now since I changed my last name✨</h1>
+<h3 align="center">A fast-paced, creative full stack developer from China</h3>
 
-- 🔭 I’m currently working on [my portofolio](https://github.com/shanshan-su/shanshan-su.github.io)
+- 🌱 I’m currently learning **Docker.**
 
-- 🌱 I’m currently learning **Java junit test.**
+- 📫 How to reach me **shanwathen@gmail.com**
 
-- 📫 How to reach me **shanshansu36@gmail.com**
-
-- ⚡ Fun fact **I can do arts, like drawing, watercolor painting. I like fitnesses, used to go to the gym 5 times a week before the pandemic.**
+- ⚡ Fun fact **I can do arts, like drawing, watercolor painting. I like fitnesses, used to go to the gym 5 times a week before the pandemic. Now I have gym setup at home, but it's hard to keep up since there're always so many things to do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
