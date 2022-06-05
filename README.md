@@ -1,4 +1,4 @@
-![Header](image/shanshansu_banner.png)
+![Header](image/shanshanwathen_banner.png)
 
 <h1 align="center">✨Howdy 👋, I'm Shanshan Su✨</h1>
 <h3 align="center">A creative full stack developer from China</h3>
@@ -30,5 +30,5 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanshan-su&show_icons=true&locale=en" alt="shanshan-su" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanshan-su&show_icons=true&locale=en&layout=compact" alt="shanshan-su" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanshan-su&theme=tokyonight&show_icons=true&locale=en" alt="shanshan-su" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanshan-su&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shanshan-su" /></p>
